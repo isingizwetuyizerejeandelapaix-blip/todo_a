@@ -1,0 +1,22 @@
+[
+    {
+        "title": "python",
+        "completed": true
+    },
+    {
+        "title": "java",
+        "completed": true
+    },
+    {
+        "title": "javax.swing",
+        "completed": true
+    },
+    {
+        "title": "party",
+        "completed": true
+    },
+    {
+        "title": "celebrating",
+        "completed": false
+    }
+]
